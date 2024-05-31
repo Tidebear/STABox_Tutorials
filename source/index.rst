@@ -10,18 +10,22 @@ STABox: a one-stop platform for versatile spatial transcriptomics data analysis 
 .. toctree::
    :maxdepth: 1
    
-   
-   10x_Xenium_human_breast__STAMarker_find_SVGs.ipynb
-   
-   
-
-.. image:: ../Images/STABox_workflow.png
-   :width: 600
+   Installation
+   Tutorial_STABox_STAGATE
+   Tutorial_STABox_STAligner
+   Tutorial_STABox_STAMarker
+   Tutorial_STABox_STAGE
+   Tutorial_STABox_STAMapper
+   Tutorial_STABox_STALocator
+   Tutorial_STABox_STData_Download
 
 
 Introduction
 ==================
-STABox, a Python software equipped with a user-friendly graphical user interface, integrating a suite of advanced analysis tools based on graph neural networks. STABox provides a unified data processing pipeline and enables automated and comprehensive analysis of diverse spatial transcriptomics platform data all in one-stop. 
+STABox is a one-stop platform for spatial transcriptomics data that provide a unified data processing pipeline, versatile data analysis modules, and interactive visualization. It integrates a suite of advanced analysis tools based on graph neural networks. STABox supports interactive 2D/3D visualization of spatial transcriptomics data, simplifying the generation and refinement of publication-ready high-quality images. STABox is extensible, allowing for seamless integration with various analysis methods to facilitate comprehensive downstream analysis of spatial transcriptomics data.
+
+.. image:: ../Images/STABox_workflow.png
+   :width: 600
 
 
 Manuscript
@@ -29,22 +33,6 @@ Manuscript
 Please see our manuscript ...
 
 
-STABox's key applications
-==================
-1.one
-2.two
-3.three
 
-Getting started with STABox 
-==================
-1.
-2.
-3.
 
-Indices and tables
-==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-* :ref:`10x_Xenium_human_breast__STAMarker_find_SVGs`
