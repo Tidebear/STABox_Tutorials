@@ -19,7 +19,7 @@ STABox: a one-stop platform for versatile spatial transcriptomics data analysis 
    :width: 600
 
 
-Introdection
+Introduction
 ==================
 STABox, a Python software equipped with a user-friendly graphical user interface, integrating a suite of advanced analysis tools based on graph neural networks. STABox provides a unified data processing pipeline and enables automated and comprehensive analysis of diverse spatial transcriptomics platform data all in one-stop. 
 
