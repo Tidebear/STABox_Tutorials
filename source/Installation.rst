@@ -49,12 +49,5 @@ Install R environment in python by conda
 
 Other required packages are listed in STABox_env.yaml. Please note that we recommend that you install the appropriate version of pytorch and other packages that are not easy to install, depending on the configuration of your computer. (For pytorch installation requirements, see https://pytorch.org/)
 
-Run STABox toolkit
-------------
-Make sure you run STABox under 'STABox\\src' path
 
-.. code-block:: python
-
-   cd STABox\src
-   python your_python_file.py
 
